@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO before launch: replace with your real domain
+Sitemap: https://www.abhijitroytravels.in/sitemap.xml

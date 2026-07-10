@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FBF6EC"/>
+
+  <!-- yellow ground band -->
+  <rect x="0" y="466" width="1200" height="164" fill="#F5B301"/>
+  <path d="M0,466 L1200,466" stroke="#16140E" stroke-width="3"/>
+
+  <!-- text -->
+  <text x="80" y="112" font-family="'Courier New',monospace" font-size="23" letter-spacing="7" fill="#4A4436">KOLKATA · OUTSTATION · GROUP TOURS</text>
+  <text x="76" y="235" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="96" fill="#16140E">Kolkata by heart.</text>
+  <text x="76" y="345" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-style="italic" font-size="96" fill="#BE3A2B">India by road.</text>
+  <text x="80" y="415" font-family="Helvetica,Arial,sans-serif" font-size="31" fill="#4A4436">Airport drops · Outstation trips · Car rental · Group tours</text>
+
+  <!-- brand + phone on the band -->
+  <text x="80" y="536" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="42" fill="#16140E">M/S Abhijit Roy</text>
+  <text x="80" y="580" font-family="'Courier New',monospace" font-weight="700" font-size="26" fill="#16140E">Nearly 30 years on the road  ·  Call 98042 49776</text>
+
+  <!-- Ambassador taxi -->
+  <g transform="translate(735,352) scale(0.92)">
+    <ellipse cx="248" cy="214" rx="196" ry="15" fill="#16140E" opacity="0.12"/>
+    <path d="M70,150 C70,134 80,131 94,129 L150,123 C161,99 176,91 206,89 L300,89 C331,91 347,103 358,125 L406,133 C426,137 432,145 432,160 L432,186 L378,186 A34,34 0 0 0 310,186 L190,186 A34,34 0 0 0 122,186 L70,186 Z" fill="#F5B301" stroke="#16140E" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M120,152 L356,152" fill="none" stroke="#16140E" stroke-width="3" opacity=".55" stroke-linecap="round"/>
+    <path d="M250,132 L250,152" fill="none" stroke="#16140E" stroke-width="3" opacity=".55" stroke-linecap="round"/>
+    <path d="M164,120 L174,101 C178,95 184,93 197,93 L291,93 C299,94 305,101 311,120 Z" fill="#16140E"/>
+    <path d="M238,93 L238,120" stroke="#F5B301" stroke-width="5"/>
+    <rect x="205" y="72" width="66" height="18" rx="3" fill="#16140E"/>
+    <text x="238" y="86" text-anchor="middle" font-family="'Courier New',monospace" font-weight="700" font-size="12" letter-spacing="2" fill="#F5B301">TAXI</text>
+    <circle cx="422" cy="150" r="7" fill="#FFFCF4" stroke="#16140E" stroke-width="3"/>
+    <path d="M430,160 L430,176" stroke="#16140E" stroke-width="6" stroke-linecap="round"/>
+    <path d="M330,108 l14,-7" stroke="#16140E" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="156" cy="186" r="32" fill="#16140E"/><circle cx="156" cy="186" r="14" fill="#EFE7D3" stroke="#16140E" stroke-width="3"/><circle cx="156" cy="186" r="4" fill="#16140E"/>
+    <circle cx="344" cy="186" r="32" fill="#16140E"/><circle cx="344" cy="186" r="14" fill="#EFE7D3" stroke="#16140E" stroke-width="3"/><circle cx="344" cy="186" r="4" fill="#16140E"/>
+  </g>
+</svg>
